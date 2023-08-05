@@ -1,0 +1,247 @@
+#info_booked{
+    height: auto;
+}
+
+#info_booked #check_info{
+    height: 100px;
+    background-color: #fffce4;
+    text-align: center;
+}
+
+#info_booked #check_info p{
+    margin-bottom: 10px;
+}
+
+#info_booked .format #f1{
+    font-weight: bold;
+}
+
+#info_booked .format #f2{
+    font-weight: bold;
+    color: red;
+}
+
+#info_booked .course_booked p{
+    font-weight: bold;
+}
+
+#info_booked .course_booked img{
+    height: 130px;
+    width: 130px;
+    float: left;
+}
+
+#info_booked .course_booked .desc_item .ads{
+    width: 750px;
+}
+
+#info_booked .course_booked .desc_item .ads #ads1{
+    border: 1px solid orange;
+    border-radius: 5px;
+    color: orange;
+    width: 70px;
+    text-align: center;
+    float: left;
+    margin-left: 10px;
+}
+
+#info_booked .course_booked .desc_item .ads #ads2{
+    border: 1px solid orange;
+    border-radius: 5px;
+    color: orange;
+    width: 150px;
+    height: 26px;
+    text-align: center;
+    margin-left: 220px;
+}
+
+#info_booked .course_booked .desc_item .ads #ads3{
+    margin-left: 140px;
+    text-align: justify;
+}
+
+#info_booked .course_booked .desc_item .ads h5{
+    color: red;
+    margin-left: 140px;
+}
+
+#info_booked .private p{
+    font-weight: bold;
+}
+
+#info_booked .private img{
+    height: 130px;
+    width: 130px;
+    float: left;
+}
+
+#info_booked .private .option .details{
+    width: 750px;
+}
+
+#info_booked .private .option .details #d1{
+    margin-left: 140px;
+    text-align: justify;
+}
+
+#info_booked .private .option .details #d2{
+    margin-left: 140px;
+}
+
+#PayPay{
+    background-color: white;
+}
+
+#PayPay .pay-details{
+    margin-left: 2%;
+}
+
+#PayPay .pay-details #p1{
+    font-weight: bold;
+    color: gray;
+    font-size: 22px;
+    float: left;
+}
+
+#PayPay .pay-details #p1 #p2{
+    width: 22px;
+    height: 22px;
+    border: 1px solid grey;
+    border-radius: 50%;
+    margin-left: 180px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+#PayPay .pay-details hr{
+    width: -80%;
+    margin-right: 25px;
+}
+
+#PayPay .pay-details #p3 b{
+    float: left;
+}
+
+#PayPay .pay-details #p3 img{
+    height: 25px;
+    width: 25px;
+    float: left;
+    margin-top: -5px;
+}
+
+#PayPay .pay-details #p3 #p3-1{
+    font-weight: bold;
+    color: #fe0032;
+    float: left;
+}
+
+#PayPay .pay-details #p3 #p3-2{
+    color: gray;
+    float: left;
+}
+
+#PayPay .pay-details #p3 #p3-3{
+    font-weight: bold;
+    font-size: 22px;
+    color: #fe0032;
+    margin-top: -6px;
+}
+
+#PayPay .pay-details #p4 {
+    color: gray;
+}
+
+#PayPay .pay-details #p5 {
+    color: gray;
+}
+
+#PayPay .pay-details #p6 {
+    color: gray;
+}
+
+#PayPay .pay-details #p7 {
+    color: gray;
+}
+
+#booker{
+    background-color: white;
+}
+
+#booker .profile{
+    margin-left: 2%;
+}
+
+#booker .profile #pf1{
+    float: left;
+}
+
+#booker .profile #pf2{
+    float: left;
+    color: orange;
+}
+
+#booker .profile #pf3{
+    color: orange;
+}
+
+#booker .profile #pf4{
+    font-weight: bold;
+    float: left;
+}
+
+#booker .profile #pf4 #pf4-1{
+    color: orange;
+}
+
+#booker .profile table{
+    width: 880px;
+    height: 50px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+input[type="radio"] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 2px solid gray;
+    background-color: white;
+    outline: none;
+    transition: border-color 0.2s, background-color 0.2s;
+}
+
+input[type="radio"]:checked {
+    border-color: orange;
+    background-color: white;
+}
+
+input[type="radio"]:checked::after {
+    content: "";
+    display: block;
+    width: 12px;
+    height: 12px;
+    background-color: orange;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    position: relative;
+    top: 50%;
+    left: 50%;
+}
+
+.note{
+    text-align: center;
+}
+
+#back{
+    width: 35%;
+    margin-left: 10%;
+    float:left;
+}
+
+#back a{
+    height: 63px;
+    width: 100%;
+}

@@ -1,0 +1,214 @@
+
+        #header_hide #plsSC {
+            float: left;
+        }
+
+        #header_hide #p_change {
+            margin-left: 825px;
+        }
+
+        #header_hide #p_change #a_change {
+            text-decoration: none;
+        }
+
+        .card-item {
+            height: 140px;
+        }
+
+        img {
+            height: 130px;
+            width: 130px;
+            float: left;
+        }
+
+        .desc_item .ads {
+            width: 750px;
+        }
+
+        .desc_item .ads #title_stand {
+            margin-left: 140px;
+            text-align: justify;
+        }
+
+        .desc_item .ads h5 {
+            color: red;
+            margin-left: 140px;
+        }
+
+        #booking {
+            background-color: white;
+        }
+
+        #booking #p_intro {
+            margin-left: 2%;
+        }
+
+        #booking #info_booking {
+            margin: inherit;
+        }
+
+        #booking #info_booking #number_people #quantity {
+            width: 100%;
+            height: 50px;
+            border-color: gainsboro;
+            border-radius: 5px;
+            text-align: center;
+            font-weight: bold;
+            background-color: white;
+        }
+
+        #booking #info_booking #number_people #quantity option {
+            text-align: center;
+            font-weight: bold;
+            background-color: white;
+        }
+
+        #booking #info_booking #book_date #order_date {
+            width: 100%;
+            height: 50px;
+            border-color: darkgrey;
+            border-radius: 5px;
+            /* text-align: center; */
+        }
+
+        #booking #info_booking #book_time {
+            margin-left: 15px;
+            margin-top: 20px;
+        }
+
+        #booking #info_booking #list_time #chose_time {
+            width: auto;
+            height: 80px;
+            background-color: #DDDDDD;
+            margin-bottom: 10px;
+            border-radius: 5px;
+            position: relative;
+            z-index: 999;
+        }
+
+        #booking #info_booking #list_time #chose_time #left{
+            margin-top: 30px;
+            margin-left: -8px;
+            border: 1px solid #5c6060;
+            border-radius: 50%;
+            background-color: #5c6060;
+            color: white;
+        }
+
+        #booking #info_booking #list_time #chose_time #right{
+            margin-left: 99%;
+            margin-top: -15px;
+            border: 1px solid #5c6060;
+            border-radius: 50%;
+            background-color: #5c6060;
+            color: white;
+        }
+
+        #booking #info_booking #list_time #chose_time i:active{
+            transform: translateY(-50%) scale(0.9);
+        }
+
+        #booking #info_booking #list_time #chose_time i:hover{
+            background: #f2f2f2;
+        }
+
+        #booking #info_booking #list_time #book_note .htt .tn {
+            width: 15px;
+            height: 15px;
+            background-color: #ff9c14;
+            border-radius: 50%;
+            float: left;
+            text-align: right;
+            margin-top: 4px;
+            margin-right: 2px;
+            position: relative;
+        }
+
+        #booking #info_booking #list_time #book_note .htt .tn .tt {
+            width: 11px;
+            height: 11px;
+            background-color: white;
+            border-radius: 50%;
+            float: left;
+            text-align: right;
+            position: absolute;
+            top: 2px;
+            left: 2px;
+            z-index: 999;
+        }
+
+        #booking #info_booking #list_time #book_note .htt #imOK {
+            font-weight: bold;
+            float: left;
+        }
+
+        #booking #info_booking #list_time #book_note .request {
+            margin-left: 210px;
+        }
+
+        #booking #info_booking #list_time #book_note .request #re_icon {
+            width: 15px;
+            height: 15px;
+            background-color: #ff9c14;
+            border-radius: 3px;
+            float: left;
+            text-align: right;
+            margin-top: 4px;
+            margin-right: 2px;
+        }
+
+        #booking #info_booking #list_time #book_note .request #re_cont {
+            font-weight: bold;
+        }
+
+        #booking #info_booking #list_time #book_note #mess {
+            width: 500px;
+            text-align: left;
+            margin-left: -10px;
+        }
+
+        #room {
+            background-color: white;
+        }
+
+        #room .private {
+            margin-left: 5%;
+        }
+
+        #room .private hr {
+            width: -80%;
+            margin-right: 40px;
+        }
+
+        #room .private img {
+            height: 130px;
+            width: 130px;
+            float: left;
+        }
+
+        #room .private .selection .ads_title {
+            width: 870px;
+        }
+
+        #room .private .selection .ads_title #pri_non {
+            margin-left: 140px;
+            text-align: justify;
+        }
+
+        #room .private .selection .ads_title #charge {
+            margin-left: 140px;
+        }
+
+        #room .private .selection .ads_title #selectRoom{
+            height: 50px;
+            width: 200px;
+            text-align: center;
+            margin-top: -50px;
+            margin-left: 500px;
+            background-color: white;
+        }
+
+        #submit_step1b{
+            width: 35%; margin-left: 32%;
+        }
+

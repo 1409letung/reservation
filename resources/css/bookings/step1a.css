@@ -1,0 +1,109 @@
+#header_hide #plsSC {
+    float: left;
+}
+
+#header_hide #p_change {
+    margin-left: 825px;
+}
+
+#header_hide #p_change #a_change {
+    text-decoration: none;
+}
+
+.card-item {
+    height: auto;
+}
+
+img {
+    height: 130px;
+    width: 130px;
+    float: left;
+}
+
+.desc_item .ads {
+    width: 750px;
+}
+
+.desc_item .ads #hours {
+    border: 1px solid orange;
+    border-radius: 5px;
+    color: orange;
+    width: 70px;
+    text-align: center;
+    float: left;
+    margin-left: 10px;
+}
+
+.desc_item .ads #drink {
+    border: 1px solid orange;
+    border-radius: 5px;
+    color: orange;
+    width: 150px;
+    height: 26px;
+    text-align: center;
+    margin-left: 220px;
+}
+
+.desc_item .ads #title_course {
+    margin-left: 140px;
+    text-align: justify;
+}
+
+.desc_item .ads #tax {
+    color: red;
+    margin-left: 140px;
+}
+
+.desc_item .ads #view_course {
+    text-decoration: none;
+    margin-left: 140px;
+    float: left;
+}
+
+.desc_item .btn {
+    border: 1px solid #D3D3D3;
+    border-radius: 5px;
+    margin-left: 780px;
+    margin-top: -200px;
+    width: 80px;
+}
+
+#card-number {
+    background-color: white;
+}
+
+#card-number p {
+    margin-left: 5%;
+    width: 90%;
+    margin-top: 15px;
+}
+
+#card-number hr {
+    width: 90%;
+    margin-left: 5%;
+    margin-top: -2px;
+}
+
+#card-seat {
+    background-color: white;
+}
+
+#card-seat p {
+    margin-left: 5%;
+}
+
+#card-seat hr {
+    width: 90%;
+    margin-left: 5%;
+}
+
+#submit-step1 {
+    width: 35%;
+    margin-left: 32%;
+    border-radius: 10px;
+}
+
+#submit-step1 button {
+    height: 50px;
+    border-radius: 10px;
+}

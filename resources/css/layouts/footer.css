@@ -1,0 +1,9 @@
+#footer h4 {
+    color: orange;
+    float: left;
+}
+
+#footer #textnote {
+    margin-bottom: -30px;
+    color: gainsboro;
+}
